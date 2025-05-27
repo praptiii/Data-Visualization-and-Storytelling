@@ -1,20 +1,21 @@
 # Data-Visualization-and-Storytelling
 Task 2
 
-Objective: To analyze Superstore sales data (2011–2014) using Power BI and uncover key business insights through effective data visualization.
+## Objective
+Analyze Superstore sales data (2011–2014) using Power BI to extract actionable insights and present them through clear, compelling visualizations.
 
-Tool Used: Power BI
+## Tools Used
+- Power BI  
+- Dataset: `Superstore.csv`
 
-Dataset: Superstore.csv
+## Features
+- KPI Cards showing Total Sales, Profit, and Quantity  
+- Visualizations by Region, Category, Segment, and Sub-Category  
+- Interactive filters for user-driven exploration  
+- Executive Summary slide for quick stakeholder insights
 
-Key Features:
-KPI Cards: Sales, Profit, Quantity
-Visuals by Region, Category, Segment, Sub-Category
-Interactive filters and clear labels
-Executive Summary page with key takeaways
-
-Insights:
-West region leads in profit (37.86%)
-Technology is the top-performing category (50.7%)
-Tables show consistent losses (−$18K) – flagged for action
-Consumer segment drives 46.8% of profit
+## Key Insights
+- **West region** contributes the highest profit (37.86%)  
+- **Technology** is the most profitable category (50.7%)  
+- **Tables** sub-category shows a loss (−$18K)  
+- **Consumer** segment leads with 46.8% of total profit
